@@ -1,0 +1,9 @@
+[
+    {
+        "id": "find",
+        "children":
+        [
+            { "command":"find_results_replace_changes", "caption": "Find Results Replace Changes" }
+        ]
+    }
+]

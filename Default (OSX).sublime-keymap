@@ -1,0 +1,11 @@
+[
+	{
+		"keys": ["super+shift+r"],
+		"command": "find_results_replace_changes"
+	},
+	{
+		"keys": ["ctrl+shift+r"],
+        "command": "find_results_replace_changes",
+        "args": { "save_and_close":true }
+	}
+]

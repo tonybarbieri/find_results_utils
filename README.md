@@ -1,4 +1,4 @@
-find_results_utils
+Sublime Find Results Utils
 ==================
 
 Sublime package adding utilities for Find In Files Results
